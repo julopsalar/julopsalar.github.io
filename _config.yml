@@ -48,9 +48,11 @@ linkedin_username: juan-lopezs
 about_title: Sobre mí
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Soy graduado en Ingeniería Informática, trabajando actualmente en el sector del <mark>Business Intelligence</mark>. 
-  
-  Mi puesto se centra exclusivamente en el desarrollo de procesos de transformación de datos, aunque también tengo gran inquietud por la rama de visualización de los Datos. Como prueba de esto, en mi Github destaco un par de proyectos de análisis de datos realizados en mi tiempo libre de forma autodidacta.
+  Soy graduado en Ingeniería Informática por la Universidad de Murcia, trabajando actualmente en el sector del Business Intelligence. Me considero una persona con gran capacidad analítica, apasionado de los numeritos, datos y estadísticas. También siento gran inquietud por todo lo relacionado con la tecnología y la ciencia en general.
+
+  Aunque profesionalmente me encuentro centrado en la fase de transformación de datos, personalmente también me siento interesado en la visualización de los Datos. Como muestra de mi interés en todas las fases del análisis de datos, en mi perfil de github destaco 2 proyectos que realicé para aprender a usar distintas herramientas. En primer lugar,  
+
+  Además, también poseo una faceta creativa ciertamente importante, que en ocasiones me permite buscar soluciones diferentes a los problemas que se plantean: la música. Y es que soy músico de conservatorio, con el fagot como mi instrumento musical, con el que participo en bandas de música y orquestas. Y es que esto ha influido enormemente en mi persona, adquiriendo valores como la disciplina y el compañerismo.
 
   
 content:
@@ -75,7 +77,8 @@ content:
           
           En aquel momento, usaba <mark>dashboards</mark> desarrollados en <mark>Excel</mark> (Google Sheets), en el que compartir información con otros jugadores.  
         
-      - title: Futfem Dashboard
+      - layout: top-middle
+        title: Futfem Dashboard
         link: github.com/julopsalar/futfem-analytics
         # link_text: Project Website
         additional_links:
