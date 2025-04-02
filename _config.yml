@@ -68,16 +68,14 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          ....
+        
         description: | # this will include new lines to allow paragraphs
           Uno de mis primeros proyectos de programación. Fue también una excusa para profundizar en el lenguaje <mark>Python</mark>, y familiarizarme con el uso y acceso a APIs (tanto un cliente oficial de la desarrolladora del videojuego como un wrapper desarrollado por parte de la comunidad). 
           El uso principal consiste en trackear las batallas de ciertas cuentas del videojuego móvil <i>Clash Royale</i>. Era una forma de personalizar el acceso a configuraciones y estrategias del juego, inspirado en webs como RoyaleAPI y StatsRoyale, muy famosas en su dia.
           
           En aquel momento, usaba <mark>dashboards</mark> desarrollados en <mark>Excel</mark> (Google Sheets), en el que compartir información con otros jugadores.  
         
-        - layout: top-middle
-        title: Futfem Dashboard
+      - title: Futfem Dashboard
         link: github.com/julopsalar/futfem-analytics
         # link_text: Project Website
         additional_links:
@@ -87,8 +85,7 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          ....
+        
         description: | # this will include new lines to allow paragraphs
           El objetivo de este proyecto era el de aprender a utilizar herramientas de visualización (en este caso Power BI). Dado que hay multitud de proyectos de este tipo, decidí darle un enfoque algo distinto: utilizar los datos de competiciones de fútbol femenino. Por lo general, se encuentra menor cantidad de datos y visualización, por lo que me pareció interesante.
           En mi caso elegí realizar el data scraping manual, programado en Python, almacenado en una Base de Datos local.
