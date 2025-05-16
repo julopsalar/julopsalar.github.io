@@ -12,7 +12,7 @@ email: ju.lopsalar@gmail.com
 website: https://julopsalar.github.io/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 # twitter_username: 
@@ -50,12 +50,45 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Soy graduado en Ingeniería Informática por la Universidad de Murcia, trabajando actualmente en el sector del Business Intelligence. Me considero una persona con gran capacidad analítica, apasionado de los numeritos, datos y estadísticas. También siento gran inquietud por todo lo relacionado con la tecnología y la ciencia en general.
 
-  Aunque profesionalmente me encuentro centrado en la fase de transformación de datos, personalmente también me siento interesado en la visualización de los Datos. Como muestra de mi interés en todas las fases del análisis de datos, en mi perfil de github destaco 2 proyectos que realicé para aprender a usar distintas herramientas. En primer lugar,  
+  Aunque profesionalmente me encuentro centrado en la fase de transformación de datos, personalmente también me siento interesado en la visualización de los Datos. Como muestra de mi interés en todas las fases del análisis de datos, en mi perfil de github destaco 2 proyectos que realicé para aprender a usar distintas herramientas.
 
-  Además, también poseo una faceta creativa ciertamente importante, que en ocasiones me permite buscar soluciones diferentes a los problemas que se plantean: la música. Y es que soy músico de conservatorio, con el fagot como mi instrumento musical, con el que participo en bandas de música y orquestas. Y es que esto ha influido enormemente en mi persona, adquiriendo valores como la disciplina y el compañerismo.
+  # Además, también poseo una faceta creativa ciertamente importante, que en ocasiones me permite buscar soluciones diferentes a los problemas que se plantean: la música. Y es que soy músico de conservatorio, con el fagot como mi instrumento musical, con el que participo en bandas de música y orquestas. Y es que esto ha influido enormemente en mi persona, adquiriendo valores como la disciplina y el compañerismo.
 
   
 content:
+  - title: Experiencia laboral # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: MetaEnlace Sistemas de Información
+        link: https://metaenlace.com/
+        # link_text: boringcompany.com
+        sub_title: Desarrollador BI
+        caption: Enero 2023 - Present
+        quote: >
+          Diseño e implantación de procesos ETL
+        description: | # this will include new lines to allow paragraphs
+          Desarrollo de procesos guiados por requisitos, utilizando la suite de <mark>Informatica Powercenter</mark>. Implementación y configuración de workflows mediante la tecnología de optimización Full PushDown.
+          
+          Acceso a diferentes sistemas gestores de bases de datos (Teradata, Oracle, Microsoft SQL Server).
+            
+  - title: Educación # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Universidad de Murcia
+        link: https://www.um.es/web/informatica/
+        caption: 2018 - 2022
+        sub_title: Graduado en Ingeniería Informática
+        quote: >
+          La Universidad de Murcia es una institución referente a nivel nacional, tanto a nivel educativo como a nivel investigación.
+        description: | # this will include new lines to allow paragraphs
+          El grado en Ingeniería Informática consta de 4 cursos, divididos en una fase general de 3 años en el que se desarrollan aspectos de hardware, software y científicos, y un último año específico. En mi caso cursé la mención en Ciencias de la Computación, con formación específica en <i>Modelos de Computación</i>, <i>Inteligencia Artificial</i> y <i>Machine Learning</i>.
+          
+        # During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+        # I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -90,44 +123,12 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         
         description: | # this will include new lines to allow paragraphs
-          El objetivo de este proyecto era el de aprender a utilizar herramientas de visualización (en este caso Power BI). Dado que hay multitud de proyectos de este tipo, decidí darle un enfoque algo distinto: utilizar los datos de competiciones de fútbol femenino. Por lo general, se encuentra menor cantidad de datos y visualización, por lo que me pareció interesante.
+          El objetivo de este proyecto era el de aprender a utilizar herramientas de visualización (en este caso Power BI). Dado que hay multitud de proyectos de este tipo, decidí darle un enfoque algo distinto: acceder a los datos de competiciones de fútbol femenino. Por lo general, se encuentra menor cantidad de datos y visualización, por lo que me pareció interesante.
           En mi caso elegí realizar el data scraping manual, programado en Python, almacenado en una Base de Datos local.
           La visualización comprende desde visualización de tablas de clasificación, estadísticas de disparos, goles y otros eventos y comparación entre jugadoras en distintas métricas.
         # I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. 
         # I have learned many skills through this and been I'm very proud of having this in my portfolio. 
         # If you don't have a project as awesome as this I would advise you make one.
-
-  - title: Experiencia laboral # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: MetaEnlace Sistemas de Información
-        link: https://metaenlace.com/
-        # link_text: boringcompany.com
-        sub_title: Desarrollador BI
-        caption: Enero 2023 - Present
-        quote: >
-          Diseño e implantación de procesos ETL
-        description: | # this will include new lines to allow paragraphs
-          Desarrollo de procesos guiados por requisitos, utilizando la suite de <mark>Informatica Powercenter</mark>. Implementación y configuración de workflows mediante la tecnología de optimización Full PushDown.
-          
-          Acceso a diferentes sistemas de bases de datos (Teradata, Oracle, Microsoft SQL Server).
-            
-  - title: Educación # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Universidad de Murcia
-        caption: 2018 - 2022
-        sub_title: Graduado en Ingeniería Informática
-        quote: >
-          La Universidad de Murcia es una institución referente a nivel nacional, tanto a nivel educativo como a nivel investigación.
-        description: | # this will include new lines to allow paragraphs
-          Mención en Ciencias de la Computación, con formación en <i>Modelos de Computación</i>, <i>Inteligencia Artificial</i> y <i>Machine Learning</i>.
-          
-        # During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-        # I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   #- title: Mis cosas
   #  layout: text
