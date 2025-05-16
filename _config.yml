@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   Aunque profesionalmente me encuentro centrado en la fase de transformación de datos, personalmente también me siento interesado en la visualización de los Datos. Como muestra de mi interés en todas las fases del análisis de datos, en mi perfil de github destaco 2 proyectos que realicé para aprender a usar distintas herramientas.
 
-  # Además, también poseo una faceta creativa ciertamente importante, que en ocasiones me permite buscar soluciones diferentes a los problemas que se plantean: la música. Y es que soy músico de conservatorio, con el fagot como mi instrumento musical, con el que participo en bandas de música y orquestas. Y es que esto ha influido enormemente en mi persona, adquiriendo valores como la disciplina y el compañerismo.
+# Además, también poseo una faceta creativa ciertamente importante, que en ocasiones me permite buscar soluciones diferentes a los problemas que se plantean: la música. Y es que soy músico de conservatorio, con el fagot como mi instrumento musical, con el que participo en bandas de música y orquestas. Y es que esto ha influido enormemente en mi persona, adquiriendo valores como la disciplina y el compañerismo.
 
   
 content:
@@ -89,7 +89,7 @@ content:
 
         # I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: Projects # Title for the section
+  - title: Proyectos # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
