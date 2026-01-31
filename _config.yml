@@ -49,8 +49,9 @@ content:
         # link_text: boringcompany.com
         sub_title: MetaEnlace Sistemas de Información
         caption: Oct 2025 - Act
-        quote: Análisis y visualización de datos en Power BI
         description: | # this will include new lines to allow paragraphs
+          <u>Análisis y visualización de datos en Power BI</u>
+          
           Creación de modelos analíticos y dashboards interactivos mediante Power BI para la visualización avanzada del dato y la toma de decisiones. Uso de Python y Amazon Web Services en la carga de los datos.
 
       - layout: left
@@ -59,9 +60,9 @@ content:
         # link_text: boringcompany.com
         sub_title: MetaEnlace Sistemas de Información
         caption: Sept 2022 - Sept 2025
-        quote: >
-          Diseño e implantación de procesos ETL
         description: | # this will include new lines to allow paragraphs
+          <u>Diseño e implantación de procesos ETL</u>
+
           Desarrollo de procesos guiados por requisitos en un entorno Data Warehouse, utilizando la suite de <mark>Informatica Powercenter</mark>. Desarrollo, implementación y planificación de workflows mediante la tecnología de optimización Full PushDown.
           
           Acceso a diferentes sistemas gestores de bases de datos (Teradata, Oracle, Microsoft SQL Server).
@@ -74,8 +75,6 @@ content:
         link: https://www.um.es/web/informatica/
         caption: 2018 - 2022
         sub_title: Graduado en Ingeniería Informática
-        quote: >
-          La Universidad de Murcia es una institución referente a nivel nacional, tanto a nivel educativo como a nivel investigación.
         description: | # this will include new lines to allow paragraphs
           El grado en Ingeniería Informática consta de 4 cursos, divididos en una fase general de 3 años en el que se desarrollan aspectos de hardware, software y científicos, y un último año específico. En mi caso cursé la mención en Ciencias de la Computación, con formación específica en <i>Modelos de Computación</i>, <i>Inteligencia Artificial</i> y <i>Machine Learning</i>.
           
