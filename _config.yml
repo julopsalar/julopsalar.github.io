@@ -50,7 +50,7 @@ content:
         sub_title: MetaEnlace Sistemas de Información
         caption: Oct 2025 - Act
         description: | # this will include new lines to allow paragraphs
-          <u>Análisis y visualización de datos en Power BI</u>
+          <b>Análisis y visualización de datos en Power BI</b>
           
           Creación de modelos analíticos y dashboards interactivos mediante Power BI para la visualización avanzada del dato y la toma de decisiones. Uso de Python y Amazon Web Services en la carga de los datos.
 
@@ -61,7 +61,7 @@ content:
         sub_title: MetaEnlace Sistemas de Información
         caption: Sept 2022 - Sept 2025
         description: | # this will include new lines to allow paragraphs
-          <u>Diseño e implantación de procesos ETL</u>
+          <b>Diseño e implantación de procesos ETL</b>
 
           Desarrollo de procesos guiados por requisitos en un entorno Data Warehouse, utilizando la suite de <mark>Informatica Powercenter</mark>. Desarrollo, implementación y planificación de workflows mediante la tecnología de optimización Full PushDown.
           
@@ -76,7 +76,7 @@ content:
         caption: 2018 - 2022
         sub_title: Graduado en Ingeniería Informática
         description: | # this will include new lines to allow paragraphs
-          El grado en Ingeniería Informática consta de 4 cursos, divididos en una fase general de 3 años en el que se desarrollan aspectos de hardware, software y científicos, y un último año específico. En mi caso cursé la mención en Ciencias de la Computación, con formación específica en <i>Modelos de Computación</i>, <i>Inteligencia Artificial</i> y <i>Machine Learning</i>.
+          El grado en Ingeniería Informática consta de 4 cursos, divididos en una fase general de 3 años en el que se desarrollan aspectos de hardware, software y científicos, y un último año específico. En mi caso cursé la mención en <b>Ciencias de la Computación</b>, con formación específica en <i>Modelos de Computación</i>, <i>Inteligencia Artificial</i> y <i>Machine Learning</i>.
           
         
 
@@ -89,7 +89,6 @@ content:
         link_text: Credencial
         caption: Dic 2025
         sub_title: DataCamp
-        #quote: >
         #  La Universidad de Murcia es una institución referente a nivel nacional, tanto a nivel educativo como a nivel investigación.
         description: | # this will include new lines to allow paragraphs
           Esta certificación consiste en una serie de cursos de una duración total de 50 horas, con el fin de profundizar en el entorno de Power BI, siendo un gran punto de partida a la hora de preparar la certificación oficial de Microsoft (DA-300, en proceso...).
