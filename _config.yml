@@ -52,7 +52,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           <b>Análisis y visualización de datos en Power BI</b>
           
-          Creación de modelos analíticos y dashboards interactivos mediante Power BI para la visualización avanzada del dato y la toma de decisiones. Uso de Python y Amazon Web Services en la carga de los datos.
+          Creación de modelos analíticos y dashboards interactivos mediante Power BI para la visualización avanzada del dato y la toma de decisiones. Uso de Python y <b>Amazon Web Services</b> en la carga de los datos.
 
       - layout: left
         title: Desarrollador BI
@@ -63,7 +63,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           <b>Diseño e implantación de procesos ETL</b>
 
-          Desarrollo de procesos guiados por requisitos en un entorno Data Warehouse, utilizando la suite de <mark>Informatica Powercenter</mark>. Desarrollo, implementación y planificación de workflows mediante la tecnología de optimización Full PushDown.
+          Desarrollo de procesos guiados por requisitos en un entorno Data Warehouse, utilizando la suite de <b>Informatica Powercenter</b>. Desarrollo, implementación y planificación de workflows mediante la tecnología de optimización Full PushDown.
           
           Acceso a diferentes sistemas gestores de bases de datos (Teradata, Oracle, Microsoft SQL Server).
             
@@ -86,10 +86,9 @@ content:
       - layout: left
         title: Data Analyst in Power BI
         link: https://www.datacamp.com/completed/statement-of-accomplishment/track/bc2e77d79b7ca57b1c74e448ad3001d843455d77
-        link_text: <u>Credencial</u>
-        caption: Dic 2025
+        link_text: <u>Enlace a Credencial</u>
+        #caption: Dic 2025
         sub_title: DataCamp
-        #  La Universidad de Murcia es una institución referente a nivel nacional, tanto a nivel educativo como a nivel investigación.
         description: | # this will include new lines to allow paragraphs
           Esta certificación consiste en una serie de cursos de una duración total de 50 horas, con el fin de profundizar en el entorno de Power BI, siendo un gran punto de partida a la hora de preparar la certificación oficial de Microsoft (DA-300, en proceso...).
           
@@ -107,10 +106,10 @@ content:
             url: github.com/julopsalar/cr-data-mining
           
         description: | # this will include new lines to allow paragraphs
-          Uno de mis primeros proyectos de programación. Fue también una excusa para profundizar en el lenguaje <mark>Python</mark>, y familiarizarme con el uso y acceso a APIs (tanto un cliente oficial de la desarrolladora del videojuego como un wrapper desarrollado por parte de la comunidad). 
+          Uno de mis primeros proyectos de programación. Fue también una excusa para profundizar en el lenguaje <b>Python</b>, y familiarizarme con el uso y acceso a APIs (tanto un cliente oficial de la desarrolladora del videojuego como un wrapper desarrollado por parte de la comunidad). 
           El uso principal consiste en trackear las batallas de ciertas cuentas del videojuego móvil <i>Clash Royale</i>. Era una forma de personalizar el acceso a configuraciones y estrategias del juego, inspirado en webs como RoyaleAPI y StatsRoyale, muy famosas en su dia.
           
-          En aquel momento, usaba <mark>dashboards</mark> sencillos desarrollados en <mark>Excel</mark> (Google Sheets), en el que compartir información con otros jugadores.  
+          En aquel momento, usaba <b>dashboards</b> sencillos desarrollados en <b>Excel</b> (Google Sheets), en el que compartir información con otros jugadores.  
         
       - layout: top-middle
         title: Futfem Dashboard
