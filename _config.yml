@@ -73,7 +73,7 @@ content:
       - layout: left
         title: Universidad de Murcia
         link: https://www.um.es/web/informatica/
-        caption: 2018 - 2022
+        caption: 2017 - 2022
         sub_title: Graduado en Ingeniería Informática
         description: | # this will include new lines to allow paragraphs
           El grado en Ingeniería Informática consta de 4 cursos, divididos en una fase general de 3 años en el que se desarrollan aspectos de hardware, software y científicos, y un último año específico. En mi caso cursé la mención en <b>Ciencias de la Computación</b>, con formación específica en <i>Modelos de Computación</i>, <i>Inteligencia Artificial</i> y <i>Machine Learning</i>.
@@ -86,7 +86,7 @@ content:
       - layout: left
         title: Data Analyst in Power BI
         link: https://www.datacamp.com/completed/statement-of-accomplishment/track/bc2e77d79b7ca57b1c74e448ad3001d843455d77
-        link_text: Credencial
+        link_text: <u>Credencial</u>
         caption: Dic 2025
         sub_title: DataCamp
         #  La Universidad de Murcia es una institución referente a nivel nacional, tanto a nivel educativo como a nivel investigación.
